@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="2268531063">
+    <data-source source="LOCAL" name="newRelic dev" uuid="d6e86e18-a373-4841-8241-136abccc2e2d">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:h2:mem:devDb;MVCC=TRUE;LOCK_TIMEOUT=10000;DB_CLOSE_ON_EXIT=FALSE</jdbc-url>
+      <user-name>root</user-name>
+      <user-password>dfc3dfcddfcedfcfdfccdfcbdfdfdfc6dfde</user-password>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
